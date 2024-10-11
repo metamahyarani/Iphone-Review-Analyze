@@ -1,0 +1,1 @@
+This projet about Sentiment Analysis about Iphone Review based on review ratings, review descriptions and review based on country year on year. This project using Machine Learning method. And don't forget to install libraries to help explore the data
